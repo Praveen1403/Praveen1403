@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Praveen1403
 - 👀 I’m interested in ...Explore Contribute Learn 
-- 🌱 I’m currently learning ...DAta Analytics
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...AI Data Automation engineer
+- 💞️ I’m looking to collaborate on ... my learnings
 - 📫 How to reach me ...
 
 <!---
