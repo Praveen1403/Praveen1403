@@ -89,18 +89,16 @@ praveen = {
 
 ### `github.stats`
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen1403&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen1403&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&count_private=true)
-</div>
+![](https://img.shields.io/badge/focus-AI%20Engineering-00d4aa?style=flat-square)
+![](https://img.shields.io/badge/stack-Python%20%7C%20LangChain%20%7C%20FastAPI-blue?style=flat-square)
+![](https://img.shields.io/badge/models-Ollama%20local-orange?style=flat-square)
+![](https://img.shields.io/badge/open%20to-remote%20roles-green?style=flat-square)
 
 ---
 
 <div align="center">
 
-`available for remote AI engineering roles` · `praveenmohan1403@gmail.com`
+`available for remote or On-site AI engineering roles` · `praveenmohan1403@gmail.com`
 
 *last updated:June 2026*
 
