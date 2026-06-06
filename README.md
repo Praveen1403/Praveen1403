@@ -11,11 +11,11 @@
 
 **`Data Engineer → AI Engineer`** · Chennai, India
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d4aa&style=flat-square&label=profile+views)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d4aa&style=flat-square&label=profile+views)](https://github.com/Praveen1403)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/praveen--mohan--)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:praveenmohan1403@gmail.com)
 
 </div>
 
