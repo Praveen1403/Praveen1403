@@ -91,10 +91,9 @@ praveen = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen1403&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen1403&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&count_private=true)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen1403&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen1403&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&count_private=true)
 </div>
 
 ---
@@ -103,6 +102,6 @@ praveen = {
 
 `available for remote AI engineering roles` · `praveenmohan1403@gmail.com`
 
-*last updated: 2026*
+*last updated:June 2026*
 
 </div>
