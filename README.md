@@ -11,9 +11,9 @@
 
 **`Data Engineer → AI Engineer`** · Chennai, India
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d4aa&style=flat-square&label=profile+views)](https://github.com/Praveen1403)
+[![Profile Views](https://komarev.com/ghpvc/?username=Praveen1403&color=00d4aa&style=flat-square&label=profile+views)](https://github.com/Praveen1403)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/praveen--mohan--)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen--mohan--)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:praveenmohan1403@gmail.com)
 
@@ -91,9 +91,9 @@ praveen = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen1403&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen1403&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9)
 
 </div>
 
@@ -101,7 +101,7 @@ praveen = {
 
 <div align="center">
 
-`available for remote AI engineering roles` · `praveen@youremail.com`
+`available for remote AI engineering roles` · `praveenmohan1403@gmail.com`
 
 *last updated: 2026*
 
